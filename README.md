@@ -1,3 +1,11 @@
+### NAME: ARCHANA RAGULA
+### COMPANY: CODTECH IT SOLUTIONS
+### ID:CT08DS5886
+### DOMAIN:DATA ANALYTICS
+### DURATION:AUGUST TO SEPTEMBER
+### TASK1: Dataset Exploratory Data Analysis
+
+
 ## Dataset Exploratory Data Analysis (EDA)
 This project performs an Exploratory Data Analysis (EDA) on the famous Iris dataset using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn. The goal is to explore the dataset's characteristics, distributions, correlations, and potential outliers through various visualizations.
 
