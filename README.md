@@ -10,6 +10,8 @@
 ## Dataset Exploratory Data Analysis (EDA)
 This project performs an Exploratory Data Analysis (EDA) on the famous Iris dataset using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn. The goal is to explore the dataset's characteristics, distributions, correlations, and potential outliers through various visualizations.
 
+![Screenshot 2024-08-30 151929](https://github.com/user-attachments/assets/fc71e44b-9a3a-444e-a70f-560916b0d6bd)
+
 ## Prerequisites
 Before running the script, make sure you have the following Python libraries installed:
 
